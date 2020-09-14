@@ -4,6 +4,10 @@ API that will provide the possibility to manage list of books and authors in lib
 ### `MySQL configuration`
 Please create database and make the changes in the `config/config.js` file.
 In `db dump` you can find the backup of database
+
+
+![alt text]( diagram.png "DB diagram")
+
  
 In the project directory, you can run:
 
